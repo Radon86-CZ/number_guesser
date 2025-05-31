@@ -1,4 +1,5 @@
-This is a simple Python guessing game where the user has to guess a randomly generated number. The program:
+This is a simple Python guessing game where the user has to guess a randomly generated number. 
+The program:
 
   Asks the user for the upper limit of the number range
 
